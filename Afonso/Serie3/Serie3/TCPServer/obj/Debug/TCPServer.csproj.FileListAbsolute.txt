@@ -1,0 +1,8 @@
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\bin\Debug\TCPServer.exe
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\bin\Debug\TCPServer.pdb
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\bin\Debug\Newtonsoft.Json.dll
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\bin\Debug\Newtonsoft.Json.xml
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\obj\Debug\TCPServer.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\obj\Debug\TCPServer.csproj.CopyComplete
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\obj\Debug\TCPServer.exe
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\TCPServer\obj\Debug\TCPServer.pdb

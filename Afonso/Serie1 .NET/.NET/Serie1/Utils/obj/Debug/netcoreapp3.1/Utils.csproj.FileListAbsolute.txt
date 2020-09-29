@@ -1,0 +1,22 @@
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.deps.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.runtimeconfig.dev.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.AssemblyInfo.cs
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Utils\obj\Debug\netcoreapp3.1\Utils.pdb

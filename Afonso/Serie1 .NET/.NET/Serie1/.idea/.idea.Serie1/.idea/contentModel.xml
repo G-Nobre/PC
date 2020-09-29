@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\afons\.nuget\packages\microsoft.net.test.sdk\16.4.0\build\netcoreapp2.1" t="Include">
+      <e p="Microsoft.NET.Test.Sdk.Program.cs" t="Include" />
+    </e>
+    <e p="C:\Users\afons\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.dll" t="Include" />
+    <e p="C:\Users\afons\.nuget\packages\microsoft.testplatform.testhost\16.4.0\build\netcoreapp2.1\x64\testhost.exe" t="Include" />
+    <e p="C:\Users\afons\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.api.dll" t="Include" />
+    <e p="C:\Users\afons\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\nunit.engine.dll" t="Include" />
+    <e p="C:\Users\afons\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.dll" t="Include" />
+    <e p="C:\Users\afons\.nuget\packages\nunit3testadapter\3.15.1\build\netcoreapp2.0\NUnit3.TestAdapter.pdb" t="Include" />
+    <e p="C:\Users\afons\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\afons\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_Serie1.-531880982.00" t="ExcludeRecursive" />
+    <e p="C:\Users\afons\Desktop\College\6th_Semester\PC\Serie1 .NET\.NET\Serie1" t="IncludeFlat">
+      <e p="Ex1" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Ex1.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Ex1.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="src" t="Include">
+          <e p="BoundedLazy.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Ex2" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BroadcastBox.cs" t="Include" />
+        <e p="Ex2.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Ex2.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="RequestMessage.cs" t="Include" />
+      </e>
+      <e p="Ex3" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Ex3.csproj" t="IncludeRecursive" />
+        <e p="Exchanger.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Ex3.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Waiter.cs" t="Include" />
+      </e>
+      <e p="Ex4" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Ex4.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Ex4.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Request.cs" t="Include" />
+        <e p="SendRequest.cs" t="Include" />
+        <e p="TransferQueue.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Serie1.sln" t="IncludeFlat" />
+      <e p="Serie1Test" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="BoundedLazyTest.cs" t="Include" />
+        <e p="BroadcastBoxTest.cs" t="Include" />
+        <e p="ExhangerTest.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Serie1Test.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Serie1Test.csproj" t="IncludeRecursive" />
+        <e p="TestUtils.cs" t="Include" />
+        <e p="TransferQueueTest.cs" t="Include" />
+      </e>
+      <e p="Utils" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="Utils.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Optional.cs" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="State.cs" t="Include" />
+        <e p="TimeoutHolder.cs" t="Include" />
+        <e p="Utils.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

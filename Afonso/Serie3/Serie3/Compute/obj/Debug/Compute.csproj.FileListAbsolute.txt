@@ -1,0 +1,5 @@
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\Compute\obj\Debug\Compute.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\Compute\bin\Debug\Compute.exe
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\Compute\bin\Debug\Compute.pdb
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\Compute\obj\Debug\Compute.exe
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\Serie3\Compute\obj\Debug\Compute.pdb

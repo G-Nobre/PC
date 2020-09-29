@@ -1,0 +1,291 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c6bdbb4e-9d96-4647-842a-64f8bfadb18c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Serie1Test/TestUtils.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex4/Request.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex4/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Serie1Test/ExhangerTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Serie1Test/BroadcastBoxTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex2/RequestMessage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex2/BroadcastBox.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex2/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex1/src/BoundedLazy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/8C/Int32.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/135/Monitor.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/3B/Type.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/Optional.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/State.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Utils/TimeoutHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/2E/Object.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex3/Waiter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/BBB3B884-123D-47EA-9CD1-5BED540D02AE/14E/ExecutionContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex3/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex3/Exchanger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/WorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/CompositeWorkItem.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$USER_HOME$/AppData/Local/Symbols/src/nunit/nunit/c933a883ea25263ec575a654dae69fa38000edd9/src/NUnitFramework/framework/Internal/Execution/SimpleWorkItemDispatcher.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex1/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Serie1Test/TransferQueueTest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex4/TransferQueue.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Ex4/SendRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Serie1Test/BoundedLazyTest.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Ex1/TimeoutHolder.cs" />
+        <option value="$PROJECT_DIR$/Ex1/Optional.cs" />
+        <option value="$PROJECT_DIR$/Ex1/State.cs" />
+        <option value="$PROJECT_DIR$/Ex1/test/BoundedLazyTest.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Ex1/Program.cs" />
+        <option value="$PROJECT_DIR$/Ex1/src/Optional.cs" />
+        <option value="$PROJECT_DIR$/Ex1/src/TimeoutHolder.cs" />
+        <option value="$PROJECT_DIR$/Ex1/src/BoundedLazy.cs" />
+        <option value="$PROJECT_DIR$/Ex2/UnitTest1.cs" />
+        <option value="$PROJECT_DIR$/Ex2/RequestMessage.cs" />
+        <option value="$PROJECT_DIR$/Ex2/Program.cs" />
+        <option value="$PROJECT_DIR$/Ex2/BroadcastBox.cs" />
+        <option value="$PROJECT_DIR$/Ex3/Program.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/TestUtils.cs" />
+        <option value="$PROJECT_DIR$/Ex3/Waiter.cs" />
+        <option value="$PROJECT_DIR$/Ex3/Exchanger.cs" />
+        <option value="$PROJECT_DIR$/Utils/Program.cs" />
+        <option value="$PROJECT_DIR$/Utils/TimeoutHolder.cs" />
+        <option value="$PROJECT_DIR$/Utils/State.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/BroadcastBoxTest.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/BoundedLazyTest.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/ExhangerTest.cs" />
+        <option value="$PROJECT_DIR$/Utils/Optional.cs" />
+        <option value="$PROJECT_DIR$/Ex4/Class1.cs" />
+        <option value="$PROJECT_DIR$/Ex3/Request.cs" />
+        <option value="$PROJECT_DIR$/Ex3/TransferQueue.cs" />
+        <option value="$PROJECT_DIR$/Ex4/Program.cs" />
+        <option value="$PROJECT_DIR$/Serie1Test/TransferQueueTest.cs" />
+        <option value="$PROJECT_DIR$/Ex4/Request.cs" />
+        <option value="$PROJECT_DIR$/Ex4/SendRequest.cs" />
+        <option value="$PROJECT_DIR$/Ex4/TransferQueue.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aJHN1XOtl9A658CynfjBrvDe8x" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="RiderNUnitUnitTestingPageId" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Ex1" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/Ex1/Ex1.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value="" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c6bdbb4e-9d96-4647-842a-64f8bfadb18c" name="Default Changelist" comment="" />
+      <created>1586446733277</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586446733277</updated>
+      <workItem from="1586446738096" duration="12562000" />
+      <workItem from="1586527206954" duration="2165000" />
+      <workItem from="1588425830982" duration="2192000" />
+      <workItem from="1588428053584" duration="6616000" />
+      <workItem from="1588518401138" duration="8702000" />
+      <workItem from="1588771263979" duration="12371000" />
+      <workItem from="1592848876367" duration="621000" />
+      <workItem from="1594397771314" duration="1994000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.log" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="135" y="159" key="FileChooserDialogImpl" timestamp="1586450384607">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="135" y="159" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1586450384607" />
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.bottom/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="210" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1586470915585" />
+    <state width="1493" height="261" key="GridCell.Tab.0.center" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.center/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="210" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1586470915584" />
+    <state width="1493" height="261" key="GridCell.Tab.0.left" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.left/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="210" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1586470915584" />
+    <state width="1493" height="261" key="GridCell.Tab.0.right" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.0.right/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="210" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1586470915584" />
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.bottom/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.1.center" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.center/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.1.left" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.left/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.1.right" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.1.right/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.bottom/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.2.center" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.center/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.2.left" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.left/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.2.right" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.2.right/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.bottom/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.3.center" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.center/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.3.left" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.left/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.3.right" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.3.right/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.4.bottom" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.4.bottom/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.4.center" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.4.center/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.4.left" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.4.left/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state width="1493" height="261" key="GridCell.Tab.4.right" timestamp="1588783787262">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="261" key="GridCell.Tab.4.right/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588783787262" />
+    <state x="361" y="145" key="Rider.ProjectTemplateDialog.Size" timestamp="1588782768067">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588782768067" />
+    <state x="361" y="145" key="Rider.ProjectTemplateDialog.Size/0.0.1536.824@0.0.1536.824" timestamp="1586458196492" />
+    <state x="479" y="94" key="RiderGenerateDialog" timestamp="1588781774338">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="479" y="94" key="RiderGenerateDialog/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588781774338" />
+    <state x="0" y="59" key="SettingsEditor" timestamp="1588431876988">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="0" y="59" key="SettingsEditor/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588431876988" />
+    <state x="0" y="59" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1586456475615" />
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup" timestamp="1588780884837">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824/-1366.305.1366.728@0.0.1536.824" timestamp="1588780884837" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Serie1Test/BroadcastBoxTest.cs</url>
+          <line>63</line>
+          <properties documentPath="$PROJECT_DIR$/Serie1Test/BroadcastBoxTest.cs" initialLine="61">
+            <startOffsets>
+              <option value="2294" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2324" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/Serie1Test/ExhangerTest.cs</url>
+          <line>67</line>
+          <properties documentPath="$PROJECT_DIR$/Serie1Test/ExhangerTest.cs" initialLine="67">
+            <startOffsets>
+              <option value="2292" />
+            </startOffsets>
+            <endOffsets>
+              <option value="2315" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

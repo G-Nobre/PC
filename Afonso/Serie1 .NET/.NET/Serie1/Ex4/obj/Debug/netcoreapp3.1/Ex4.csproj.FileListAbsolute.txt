@@ -1,0 +1,15 @@
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.deps.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.runtimeconfig.dev.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Ex4.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.AssemblyInfo.cs
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.csproj.CopyComplete
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex4\obj\Debug\netcoreapp3.1\Ex4.pdb

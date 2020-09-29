@@ -1,0 +1,34 @@
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CopyComplete
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.exe
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.deps.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.runtimeconfig.dev.json
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Ex1.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\bin\Debug\netcoreapp3.1\Utils.pdb
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfoInputs.cache
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.AssemblyInfo.cs
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.csproj.CopyComplete
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.dll
+C:\Users\afons\Desktop\College\6th Semester\PC\Serie1 .NET\.NET\Serie1\Ex1\obj\Debug\netcoreapp3.1\Ex1.pdb

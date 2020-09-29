@@ -1,0 +1,10 @@
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\obj\Debug\TestSerie3.csprojAssemblyReference.cache
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\TestSerie3.dll
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\TestSerie3.pdb
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\Compute.exe
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\nunit.framework.dll
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\Compute.pdb
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\bin\Debug\nunit.framework.xml
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\obj\Debug\TestSerie3.csproj.CopyComplete
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\obj\Debug\TestSerie3.dll
+C:\Users\afons\Desktop\College\6th_Semester\PC\Serie3\TestSerie3\obj\Debug\TestSerie3.pdb
